@@ -8,4 +8,3 @@ print("End of the test file.")
 age = 30
 print("Age is:", age)
 
-
