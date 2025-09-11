@@ -9,4 +9,13 @@ age = 30
 print("Age is:", age)
 print("This line is added in the new branch.")
 print("This line is added in the main branch.")
-
+print("This line is added in both branches.")
+ht = 143
+wt = 60
+bmi = wt / (ht/100) ** 2
+print("BMI is:", bmi)
+print("This line is added in both branches.")
+# Example: Print numbers from 1 to 5
+for i in range(1, 6):
+    print("Number:", i)
+# --- IGNORE ---
