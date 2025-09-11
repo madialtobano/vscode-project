@@ -7,4 +7,6 @@ print("End of the test file.")
 #####
 age = 30
 print("Age is:", age)
+print("This line is added in the new branch.")
+print("This line is added in the main branch.")
 
