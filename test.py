@@ -18,4 +18,10 @@ print("This line is added in both branches.")
 # Example: Print numbers from 1 to 5
 for i in range(1, 6):
     print("Number:", i)
-# --- IGNORE ---
+# --- IGNORE ---    
+## branch:
+# main
+##fetch > pull
+
+#branch: test
+#create changes > git add . > git commit -m "message" > git push -u origin testgit
