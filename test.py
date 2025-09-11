@@ -22,6 +22,8 @@ for i in range(1, 6):
 ## branch:
 # main
 ##fetch > pull
+#new branch: testgit
 
 #branch: test
 #create changes > git add . > git commit -m "message" > git push -u origin testgit
+#merge > pull request > merge pull request > confirm merge > delete branch
